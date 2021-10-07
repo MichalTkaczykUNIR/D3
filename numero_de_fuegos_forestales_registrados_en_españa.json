@@ -1,22 +1,4 @@
-﻿{
-    "Url": "www.epdata.es/numero-fuegos-forestales-registrados-espana/0d715000-a985-4488-b9a1-bb92128b83a7",
-    "Respuesta": {
-        "Id": "0d715000-a985-4488-b9a1-bb92128b83a7",
-        "Url": "www.epdata.es/numero-fuegos-forestales-registrados-espana/0d715000-a985-4488-b9a1-bb92128b83a7",
-        "Titulo": "Número de fuegos forestales registrados en España",
-        "Subtitulo": "Total de siniestros de enero a 5 de septiembre de cada año",
-        "Datos": {
-            "Metricas": [
-                {
-                    "Id": 0,
-                    "Nombre": "Incendios",
-                    "SonDatosNumericos": true,
-                    "Fuente": "Ministerio de Agricultura",
-                    "Clasificacion": null,
-                    "Unidad": "Fuegos",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
+[
                         {
                             "Agno": 2011,
                             "Periodo": "Año",
@@ -106,8 +88,3 @@
                             "Notas": null
                         }
                     ]
-                }
-            ]
-        }
-    }
-}
