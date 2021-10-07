@@ -1,12 +1,4 @@
-﻿{
-    "Url": "www.epdata.es/hectareas-quemadas-fuego-incendios-forestales/519bccbc-8669-4c20-8869-a0e09730f8ec",
-    "Respuesta": {
-        "Id": "519bccbc-8669-4c20-8869-a0e09730f8ec",
-        "Url": "www.epdata.es/hectareas-quemadas-fuego-incendios-forestales/519bccbc-8669-4c20-8869-a0e09730f8ec",
-        "Titulo": "Hectáreas quemadas por el fuego en incendios forestales",
-        "Subtitulo": "De enero a 5 de septiembre de cada año",
-        "Datos": {
-            "Metricas": [
+[
                 {
                     "Id": 0,
                     "Nombre": "Hectareas",
@@ -106,8 +98,3 @@
                             "Notas": null
                         }
                     ]
-                }
-            ]
-        }
-    }
-}
