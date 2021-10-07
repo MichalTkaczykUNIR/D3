@@ -1,12 +1,4 @@
-﻿{
-    "Url": "www.epdata.es/numero-grandes-incendios-registrados-espana/17bf86bc-2da1-41c6-a01f-308a15c8ef73",
-    "Respuesta": {
-        "Id": "17bf86bc-2da1-41c6-a01f-308a15c8ef73",
-        "Url": "www.epdata.es/numero-grandes-incendios-registrados-espana/17bf86bc-2da1-41c6-a01f-308a15c8ef73",
-        "Titulo": "Número de grandes incendios registrados en España",
-        "Subtitulo": "De enero a 5 de septiembre de cada año",
-        "Datos": {
-            "Metricas": [
+[
                 {
                     "Id": 0,
                     "Nombre": "Incendios",
@@ -106,8 +98,3 @@
                             "Notas": null
                         }
                     ]
-                }
-            ]
-        }
-    }
-}
