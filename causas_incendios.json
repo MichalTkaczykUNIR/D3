@@ -1,0 +1,378 @@
+[
+ {
+   "Año": 1969,
+   "Negligencias": 559,
+   "Rayo": 47,
+   "Intencionados": 250,
+   "Desconocido": 541,
+   "Otras": 78
+ },
+ {
+   "Año": 1970,
+   "Negligencias": 1081,
+   "Rayo": 112,
+   "Intencionados": 391,
+   "Desconocido": 1502,
+   "Otras": 117
+ },
+ {
+   "Año": 1971,
+   "Negligencias": 619,
+   "Rayo": 87,
+   "Intencionados": 224,
+   "Desconocido": 726,
+   "Otras": 58
+ },
+ {
+   "Año": 1972,
+   "Negligencias": 531,
+   "Rayo": 69,
+   "Intencionados": 326,
+   "Desconocido": 1151,
+   "Otras": 71
+ },
+ {
+   "Año": 1973,
+   "Negligencias": 1337,
+   "Rayo": 146,
+   "Intencionados": 759,
+   "Desconocido": 1417,
+   "Otras": 106
+ },
+ {
+   "Año": 1974,
+   "Negligencias": 1245,
+   "Rayo": 98,
+   "Intencionados": 1077,
+   "Desconocido": 1423,
+   "Otras": 137
+ },
+ {
+   "Año": 1975,
+   "Negligencias": 1143,
+   "Rayo": 249,
+   "Intencionados": 1206,
+   "Desconocido": 521,
+   "Otras": 123
+ },
+ {
+   "Año": 1976,
+   "Negligencias": 969,
+   "Rayo": 446,
+   "Intencionados": 1386,
+   "Desconocido": 1721,
+   "Otras": 74
+ },
+ {
+   "Año": 1977,
+   "Negligencias": 626,
+   "Rayo": 43,
+   "Intencionados": 643,
+   "Desconocido": 785,
+   "Otras": 51
+ },
+ {
+   "Año": 1978,
+   "Negligencias": 1324,
+   "Rayo": 135,
+   "Intencionados": 3764,
+   "Desconocido": 2955,
+   "Otras": 145
+ },
+ {
+   "Año": 1979,
+   "Negligencias": 975,
+   "Rayo": 176,
+   "Intencionados": 2991,
+   "Desconocido": 2926,
+   "Otras": 99
+ },
+ {
+   "Año": 1980,
+   "Negligencias": 1245,
+   "Rayo": 189,
+   "Intencionados": 2690,
+   "Desconocido": 2914,
+   "Otras": 155
+ },
+ {
+   "Año": 1981,
+   "Negligencias": 1471,
+   "Rayo": 332,
+   "Intencionados": 4317,
+   "Desconocido": 4560,
+   "Otras": 200
+ },
+ {
+   "Año": 1982,
+   "Negligencias": 958,
+   "Rayo": 246,
+   "Intencionados": 2337,
+   "Desconocido": 2780,
+   "Otras": 121
+ },
+ {
+   "Año": 1983,
+   "Negligencias": 1098,
+   "Rayo": 263,
+   "Intencionados": 1462,
+   "Desconocido": 1949,
+   "Otras": 108
+ },
+ {
+   "Año": 1984,
+   "Negligencias": 1009,
+   "Rayo": 188,
+   "Intencionados": 2843,
+   "Desconocido": 3013,
+   "Otras": 151
+ },
+ {
+   "Año": 1985,
+   "Negligencias": 1536,
+   "Rayo": 349,
+   "Intencionados": 4903,
+   "Desconocido": 5304,
+   "Otras": 192
+ },
+ {
+   "Año": 1986,
+   "Negligencias": 1146,
+   "Rayo": 247,
+   "Intencionados": 2272,
+   "Desconocido": 3600,
+   "Otras": 172
+ },
+ {
+   "Año": 1987,
+   "Negligencias": 1046,
+   "Rayo": 375,
+   "Intencionados": 3284,
+   "Desconocido": 3834,
+   "Otras": 140
+ },
+ {
+   "Año": 1988,
+   "Negligencias": 293,
+   "Rayo": 143,
+   "Intencionados": 3808,
+   "Desconocido": 4089,
+   "Otras": 137
+ },
+ {
+   "Año": 1989,
+   "Negligencias": 2044,
+   "Rayo": 480,
+   "Intencionados": 8670,
+   "Desconocido": 7716,
+   "Otras": 164
+ },
+ {
+   "Año": 1990,
+   "Negligencias": 1530,
+   "Rayo": 638,
+   "Intencionados": 3817,
+   "Desconocido": 5896,
+   "Otras": 165
+ },
+ {
+   "Año": 1991,
+   "Negligencias": 1689,
+   "Rayo": 807,
+   "Intencionados": 4957,
+   "Desconocido": 4592,
+   "Otras": 197
+ },
+ {
+   "Año": 1992,
+   "Negligencias": 2412,
+   "Rayo": 790,
+   "Intencionados": 8473,
+   "Desconocido": 4007,
+   "Otras": 213
+ },
+ {
+   "Año": 1993,
+   "Negligencias": 2256,
+   "Rayo": 622,
+   "Intencionados": 8036,
+   "Desconocido": 3045,
+   "Otras": 267
+ },
+ {
+   "Año": 1994,
+   "Negligencias": 2971,
+   "Rayo": 825,
+   "Intencionados": 10542,
+   "Desconocido": 4529,
+   "Otras": 396
+ },
+ {
+   "Año": 1995,
+   "Negligencias": 2680,
+   "Rayo": 962,
+   "Intencionados": 17047,
+   "Desconocido": 4553,
+   "Otras": 314
+ },
+ {
+   "Año": 1996,
+   "Negligencias": 1859,
+   "Rayo": 671,
+   "Intencionados": 11006,
+   "Desconocido": 2735,
+   "Otras": 316
+ },
+ {
+   "Año": 1997,
+   "Negligencias": 2004,
+   "Rayo": 665,
+   "Intencionados": 15624,
+   "Desconocido": 3797,
+   "Otras": 229
+ },
+ {
+   "Año": 1998,
+   "Negligencias": 3171,
+   "Rayo": 653,
+   "Intencionados": 13804,
+   "Desconocido": 3073,
+   "Otras": 1194
+ },
+ {
+   "Año": 1999,
+   "Negligencias": 3213,
+   "Rayo": 789,
+   "Intencionados": 9751,
+   "Desconocido": 3383,
+   "Otras": 795
+ },
+ {
+   "Año": 2000,
+   "Negligencias": 3454,
+   "Rayo": 524,
+   "Intencionados": 14965,
+   "Desconocido": 3489,
+   "Otras": 1141
+ },
+ {
+   "Año": 2001,
+   "Negligencias": 2338,
+   "Rayo": 748,
+   "Intencionados": 11646,
+   "Desconocido": 2712,
+   "Otras": 1092
+ },
+ {
+   "Año": 2002,
+   "Negligencias": 2231,
+   "Rayo": 696,
+   "Intencionados": 12373,
+   "Desconocido": 3044,
+   "Otras": 1151
+ },
+ {
+   "Año": 2003,
+   "Negligencias": 2139,
+   "Rayo": 1083,
+   "Intencionados": 9922,
+   "Desconocido": 3565,
+   "Otras": 1429
+ },
+ {
+   "Año": 2004,
+   "Negligencias": 2845,
+   "Rayo": 292,
+   "Intencionados": 12367,
+   "Desconocido": 3397,
+   "Otras": 1413
+ },
+ {
+   "Año": 2005,
+   "Negligencias": 5494,
+   "Rayo": 976,
+   "Intencionados": 13861,
+   "Desconocido": 4372,
+   "Otras": 789
+ },
+ {
+   "Año": 2006,
+   "Negligencias": 3935,
+   "Rayo": 1199,
+   "Intencionados": 7838,
+   "Desconocido": 2764,
+   "Otras": 598
+ },
+ {
+   "Año": 2007,
+   "Negligencias": 3987,
+   "Rayo": 471,
+   "Intencionados": 4626,
+   "Desconocido": 1961,
+   "Otras": 149
+ },
+ {
+   "Año": 2008,
+   "Negligencias": 4128,
+   "Rayo": 371,
+   "Intencionados": 5275,
+   "Desconocido": 1789,
+   "Otras": 93
+ },
+ {
+   "Año": 2009,
+   "Negligencias": 4435,
+   "Rayo": 670,
+   "Intencionados": 8484,
+   "Desconocido": 1808,
+   "Otras": 245
+ },
+ {
+   "Año": 2010,
+   "Negligencias": 2783,
+   "Rayo": 493,
+   "Intencionados": 7075,
+   "Desconocido": 1124,
+   "Otras": 247
+ },
+ {
+   "Año": 2011,
+   "Negligencias": 3391,
+   "Rayo": 621,
+   "Intencionados": 10090,
+   "Desconocido": 1796,
+   "Otras": 516
+ },
+ {
+   "Año": 2012,
+   "Negligencias": 4562,
+   "Rayo": 556,
+   "Intencionados": 9014,
+   "Desconocido": 1500,
+   "Otras": 346
+ },
+ {
+   "Año": 2013,
+   "Negligencias": 2974,
+   "Rayo": 657,
+   "Intencionados": 5580,
+   "Desconocido": 1274,
+   "Otras": 312
+ },
+ {
+   "Año": 2014,
+   "Negligencias": 3406,
+   "Rayo": 616,
+   "Intencionados": 4732,
+   "Desconocido": 927,
+   "Otras": 125
+ },
+ {
+   "Año": 2015,
+   "Negligencias": 3205,
+   "Rayo": 779,
+   "Intencionados": 6380,
+   "Desconocido": 1206,
+   "Otras": 240
+ }
+]
