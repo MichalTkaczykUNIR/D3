@@ -1,0 +1,27 @@
+﻿"Año";"Periodo";"Número de solicitantes de asilo"
+"2009";"Año";"3.007"
+"2010";"Año";"2.744"
+"2011";"Año";"3.422"
+"2012";"Año";"2.588"
+"2013";"Año";"4.513"
+"2014";"Año";"5.952"
+"2015";"Año";"14.887"
+"2016";"Año";"16.544"
+"2017";"Año";"31.740"
+"2018";"Año";"55.749"
+"2019";"Año";"118.264"
+"2020";"Año";"88.762"
+;;
+;;
+"Métrica":"Número de solicitantes de asilo"
+"Fuente":"Ministerio del Interior"
+"Clasificación":""
+"Unidad":"Personas"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/evolucion-numero-solicitantes-asilo-espana/319a885d-a3ed-443e-80e9-734cca9e5ccb"
+"Titulo":"Número de solicitantes de asilo presentadas en España"
+"Subtitulo":""

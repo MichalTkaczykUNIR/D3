@@ -1,0 +1,26 @@
+﻿"Año";"Periodo";"Desplazados forzosos"
+"2010";"Año";"41,1"
+"2011";"Año";"38,5"
+"2012";"Año";"42,7"
+"2013";"Año";"51,2"
+"2014";"Año";"59,2"
+"2015";"Año";"65"
+"2016";"Año";"65,5"
+"2017";"Año";"68,4"
+"2018";"Año";"73,3"
+"2019";"Año";"79,5"
+"2020";"Año";"82,4"
+;;
+;;
+"Métrica":"Desplazados forzosos"
+"Fuente":"ACNUR"
+"Clasificación":""
+"Unidad":"Desplazados forzosos"
+"Escala":"Millones"
+"EscalaFactorPotencia10":"6"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/evolucion-numero-desplazados-forzosos/723f9bc0-6286-4a7b-9133-53dc39ea72ee"
+"Titulo":"Evolución en el número de desplazados forzosos en el mundo"
+"Subtitulo":""

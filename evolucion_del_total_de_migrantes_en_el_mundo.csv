@@ -1,0 +1,22 @@
+﻿"Año";"Periodo";"Migrantes"
+"1990";"Año";"153.011.473"
+"1995";"Año";"161.316.895"
+"2000";"Año";"173.588.441"
+"2005";"Año";"191.615.574"
+"2010";"Año";"220.781.909"
+"2015";"Año";"248.861.296"
+"2019";"Año";"271.642.105"
+;;
+;;
+"Métrica":"Migrantes"
+"Fuente":"ONU"
+"Clasificación":""
+"Unidad":"Migrantes"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/evolucion-total-migrantes-mundo/933734b4-0b07-4e67-9a81-7b5379f0cc60"
+"Titulo":"Evolución del total de migrantes en el mundo"
+"Subtitulo":"Población que reside en un país distinto al de su origen"
